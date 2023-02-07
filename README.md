@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saeed_Bark</h1>
 <h3 align="center">I am a software engineer specializing mobile development(Flutter)</h3>
-<img align="right" width="300" src="https://4foxsolutions.com/uploads/services/Mobile-app-development.gif" alt="saeedbark" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saeedbark&label=Profile%20views&color=0e75b6&style=flat" alt="saeedbark" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saeedbark" alt="saeedbark" /></a> </p>
@@ -8,6 +8,7 @@
 - 💬 Ask me about **Flutter,Dart**
 
 - 📫 How to reach me **saeedbark96@gmail.com**
+<img align="right" width="300" src="https://4foxsolutions.com/uploads/services/Mobile-app-development.gif" alt="saeedbark" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

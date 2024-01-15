@@ -8,7 +8,6 @@
 - 💬 Ask me about **Flutter,Dart**
 
 - 📫 How to reach me **saeedbark96@gmail.com**
-- 
 - 📫 How to reach me **+22242721553**
 
 

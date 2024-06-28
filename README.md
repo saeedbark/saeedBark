@@ -3,21 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saeedbark&label=Profile%20views&color=0e75b6&style=flat" alt="saeedbark" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saeedbark" alt="saeedbark" /></a> </p>
-<img align="right" width="300" src="https://4foxsolutions.com/uploads/services/Mobile-app-development.gif" alt="saeedbark" />
-- 💬 Ask me about **Flutter,Dart**
-
-- 📫 How to reach me **saeedbark96@gmail.com**
-- 📫 How to reach me **+22242721553**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saeed bark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saeed bark" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/saeed_bark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="saeed_bark" height="30" width="40" /></a>
-<a href="https://fb.com/saeed bark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saeed bark" height="30" width="40" /></a>
-</p>
-
 
 
 <h3 align="left">Languages and Tools:</h3>

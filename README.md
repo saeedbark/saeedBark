@@ -7,8 +7,7 @@
 <img align="right" width="300" src="https://4foxsolutions.com/uploads/services/Mobile-app-development.gif" alt="saeedbark" />
 - 💬 Ask me about *Flutter,Dart*
 
-- 📫 How to reach me *saeedbark96@gmail.com*
-- 📫 How to reach me *+22242721553*
+
 
 
 <h3 align="left">Connect with me:</h3>

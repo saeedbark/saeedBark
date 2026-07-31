@@ -10,6 +10,8 @@ Building scalable Mobile, Web & Backend systems 🚀
   <img src="https://komarev.com/ghpvc/?username=saeedbark&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <a href="https://linkedin.com/in/saeed-bark" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/saeed_bark" target="_blank"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white" /></a>
+  <a href="https://6a5f03ab20ff9400088fffb9--mellifluous-pegasus-39449e.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=flat&logo=netlify&logoColor=white" /></a>
+  <a href="https://6a5f03ab20ff9400088fffb9--mellifluous-pegasus-39449e.netlify.app/Saeed_Bark_CV.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-CV-red?style=flat&logo=readdotcv&logoColor=white" /></a>
 </p>
 
 <br>
@@ -52,6 +54,9 @@ Building scalable Mobile, Web & Backend systems 🚀
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" alt="facebook" />
   </a>
 </p>
+
+📁 **Portfolio:** [mellifluous-pegasus-39449e.netlify.app](https://6a5f03ab20ff9400088fffb9--mellifluous-pegasus-39449e.netlify.app/)
+📄 **CV:** [Download Saeed_Bark_CV.pdf](https://6a5f03ab20ff9400088fffb9--mellifluous-pegasus-39449e.netlify.app/Saeed_Bark_CV.pdf)
 
 ---
 
@@ -124,5 +129,5 @@ Building scalable Mobile, Web & Backend systems 🚀
 ### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saeedbark&theme=tokyonight&no-frame=true&row=1" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saeedbark&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="trophies" />
 </p>

@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Saeed Bark</h1>
-<h3 align="center">Flutter Developer | Software Engineer 🎓</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6ee7f7&height=200&section=header&text=Hi%20👋,%20I'm%20Saeed%20Bark&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Software%20Engineer%20🎓&descAlignY=55&descSize=18" alt="header" />
+</p>
+
+<p align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%93%B1;Clean+Architecture+%26+Scalable+Apps;Riverpod+%7C+React+%7C+Next.js;Building+the+Hadrami+NLP+Dataset+%F0%9F%A7%A0" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
 Master's Degree in Software Engineering<br>
@@ -122,6 +129,18 @@ Building scalable Mobile, Web & Backend systems 🚀
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=saeedbark&theme=tokyonight" alt="streak stats" />
+</p>
+
+---
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saeedbark&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saeedbark/saeedbark/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---

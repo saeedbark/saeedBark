@@ -140,7 +140,7 @@ Building scalable Mobile, Web & Backend systems 🚀
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saeedbark/saeedbark/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/saeedbark/saeedBark/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---

@@ -62,8 +62,7 @@ Building scalable Mobile, Web & Backend systems 🚀
   </a>
 </p>
 
-📁 **Portfolio:** [mellifluous-pegasus-39449e.netlify.app](https://6a5f03ab20ff9400088fffb9--mellifluous-pegasus-39449e.netlify.app/)
-📄 **CV:** [Download Saeed_Bark_CV.pdf](https://6a5f03ab20ff9400088fffb9--mellifluous-pegasus-39449e.netlify.app/Saeed_Bark_CV.pdf)
+📁 **Portfolio:** [Saeed-Bark](https://saeedbark-profile-gemini-forge.saeedbark96.workers.dev/)
 
 ---
 

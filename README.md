@@ -36,8 +36,6 @@ Shipped 4 apps to Google Play & the App Store · Flutter + AI integration + Supa
 
 ---
 
----
-
 ### 🌐 Connect with Me
 
 <p align="left">

@@ -11,20 +11,25 @@ on:
 permissions:
   contents: write
 
+# Each run force-pushes the "output" branch, so never let two runs overlap.
+concurrency:
+  group: profile-graphics
+  cancel-in-progress: true
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake animation SVG
+      - name: Generate snake animation SVGs
         uses: Platane/snk@v3
         with:
-          github_user_name: saeedbark
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push snake.svg to the "output" branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Push snake SVGs to the "output" branch
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist

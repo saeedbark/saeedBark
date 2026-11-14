@@ -57,7 +57,6 @@ Shipped 4 apps to Google Play & the App Store · Flutter + AI integration + Supa
 
 📁 **Portfolio:** [saeedbark-profile](https://saeedbark-profile-gemini-forge.saeedbark96.workers.dev/)  
 📧 **Email:** [saeedbark96@gmail.com](mailto:saeedbark96@gmail.com)  
-📞 **Phone:** [+222 42 72 15 53](tel:+22242721553)  
 📍 **Location:** Nouakchott, Mauritania
 
 ---

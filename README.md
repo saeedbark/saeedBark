@@ -36,15 +36,6 @@ Shipped 4 apps to Google Play & the App Store · Flutter + AI integration + Supa
 
 ---
 
-### 🚀 What I'm Building
-
-- 🏢 **Mouyassir ERP**: Flutter ERP with 20+ modules on ERPNext/Frappe, live on [Google Play](https://play.google.com/store/apps/details?id=com.softwaresavants.mouyassir) & [App Store](https://apps.apple.com/mr/app/mouyassir/id6759734497)
-- 🧠 **[Hadrami AI](https://github.com/saeedbark/Hadrami_AI)**: RAG-powered dictionary & translator for the Hadrami dialect ([web demo](https://hadrami-ai-lr7j.vercel.app/))
-- 📚 **Open dataset**: Hadrami Arabic dialect corpus on [Kaggle](https://www.kaggle.com/datasets/saeedbark7/hadrami-arabic-dialect-dataset) & [Hugging Face](https://huggingface.co/datasets/saeedbark/hadrami-arabic-dialect-dataset)
-- 💳 **[moosyl_flutter](https://pub.dev/packages/moosyl_flutter)**: open-source Flutter payment SDK for Bankily, Sedad & Masrivi
-- 🛍️ **Roudikram** (service marketplace) and **Apex AI** (AI fitness coaching): Supabase / Firebase apps on the stores
-- 🏥 **Zofa ERP**: hospital management ERP (Flutter + ERPNext)
-
 ---
 
 ### 🌐 Connect with Me

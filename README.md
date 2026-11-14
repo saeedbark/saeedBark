@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%93%B1;Clean+Architecture+%26+Scalable+Apps;Riverpod+%7C+React+%7C+Next.js;Building+the+Hadrami+NLP+Dataset+%F0%9F%A7%A0" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%93%B1;Clean+Architecture+%26+Scalable+Apps;Riverpod+%7C+React+%7C+Next.js;Building+the+Hadrami+NLP+Dataset+%F0%9F%A7%A0" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,10 +13,10 @@ Building scalable Mobile, Web & Backend systems 🚀
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saeedbark&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://linkedin.com/in/saeed-bark" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/saeed_bark" target="_blank"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white" /></a>
-  <a href="https://6a5f03ab20ff9400088fffb9--mellifluous-pegasus-39449e.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=flat&logo=netlify&logoColor=white" /></a>
-  <a href="https://6a5f03ab20ff9400088fffb9--mellifluous-pegasus-39449e.netlify.app/Saeed_Bark_CV.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-CV-red?style=flat&logo=readdotcv&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/saeed-bark" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://stackoverflow.com/users/saeed_bark" target="_blank"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://saeedbark-profile-gemini-forge.saeedbark96.workers.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=flat&logo=cloudflareworkers&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://saeedbark-profile-gemini-forge.saeedbark96.workers.dev/Saeed_Bark_CV.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-CV-red?style=flat&logo=readdotcv&logoColor=white" alt="Resume" /></a>
 </p>
 
 <br>
@@ -122,8 +120,8 @@ Building scalable Mobile, Web & Backend systems 🚀
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saeedbark&show_icons=true&theme=tokyonight" alt="github stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedbark&layout=compact&theme=tokyonight" alt="top langs" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saeedbark&theme=tokyonight" alt="github stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saeedbark&theme=tokyonight" alt="top languages by commit" />
 </p>
 
 <p align="center">
@@ -135,11 +133,17 @@ Building scalable Mobile, Web & Backend systems 🚀
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saeedbark&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saeedbark/saeedBark/output/profile-3d-contrib/profile-night-rainbow.svg" />
+    <img src="https://raw.githubusercontent.com/saeedbark/saeedBark/output/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saeedbark/saeedBark/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saeedbark/saeedBark/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/saeedbark/saeedBark/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  </picture>
 </p>
 
 ---
@@ -147,5 +151,5 @@ Building scalable Mobile, Web & Backend systems 🚀
 ### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saeedbark&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="trophies" />
+  <img src="https://github-trophies.vercel.app/?username=saeedbark&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="trophies" />
 </p>

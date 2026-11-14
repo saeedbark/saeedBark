@@ -53,12 +53,12 @@ Shipped 4 apps to Google Play & the App Store · Flutter + AI integration + Supa
   <a href="https://www.linkedin.com/in/saeed-bark-5a2853260/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="linkedin" />
   </a>
-  <a href="https://facebook.com/saeed.bark" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" alt="facebook" />
-  </a>
 </p>
 
-📁 **Portfolio:** [saeedbark-profile](https://saeedbark-profile-gemini-forge.saeedbark96.workers.dev/)
+📁 **Portfolio:** [saeedbark-profile](https://saeedbark-profile-gemini-forge.saeedbark96.workers.dev/)  
+📧 **Email:** [saeedbark96@gmail.com](mailto:saeedbark96@gmail.com)  
+📞 **Phone:** [+222 42 72 15 53](tel:+22242721553)  
+📍 **Location:** Nouakchott, Mauritania
 
 ---
 
@@ -90,22 +90,18 @@ Shipped 4 apps to Google Play & the App Store · Flutter + AI integration + Supa
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="40" alt="supabase" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" alt="firebase" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" alt="fastapi" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" alt="django" />
 </p>
 
 **🧠 Data & NLP**
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="python" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" alt="tensorflow" />
 </p>
 
 **🗄️ Database**
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="postgresql" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="mysql" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" alt="mongodb" />
 </p>
 
 **🧰 Tools**

@@ -3,18 +3,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%93%B1;Clean+Architecture+%26+Scalable+Apps;Riverpod+%7C+React+%7C+Next.js;Building+the+Hadrami+NLP+Dataset+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%93%B1;Clean+Architecture+%26+Scalable+Apps;Flutter+%2B+AI+Integration+%7C+Supabase;Riverpod+%7C+Next.js+%7C+ERPNext;Building+Hadrami+AI+%26+its+open+dataset+%F0%9F%A7%A0" alt="Typing SVG" />
 </p>
 
 <p align="center">
-Master's Degree in Software Engineering<br>
-Building scalable Mobile, Web & Backend systems 🚀
+Master's Degree in Software Engineering · 3+ years building production Flutter apps<br>
+Shipped 4 apps to Google Play & the App Store · Flutter + AI integration + Supabase 🚀
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saeedbark&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://linkedin.com/in/saeed-bark" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://stackoverflow.com/users/saeed_bark" target="_blank"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://www.linkedin.com/in/saeed-bark-5a2853260/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://saeedbark-profile-gemini-forge.saeedbark96.workers.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=flat&logo=cloudflareworkers&logoColor=white" alt="Portfolio" /></a>
   <a href="https://saeedbark-profile-gemini-forge.saeedbark96.workers.dev/Saeed_Bark_CV.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-CV-red?style=flat&logo=readdotcv&logoColor=white" alt="Resume" /></a>
 </p>
@@ -25,12 +24,13 @@ Building scalable Mobile, Web & Backend systems 🚀
 
 <img align="right" width="260" src="https://4foxsolutions.com/uploads/services/Mobile-app-development.gif" alt="mobile dev" />
 
-- 📱 Flutter Developer (Clean Architecture, scalable apps)
-- ⚙️ State Management: Riverpod (hooks + code generation)
-- 🌐 Web: React.js & Next.js
-- 📦 Backend: Django REST, FastAPI, Frappe (ERPNext)
-- 🔔 Real-time systems & notifications (FCM)
-- 🧠 Working on NLP project (Hadrami Dialect Dataset)
+- 📱 Flutter Developer: Android, iOS & Web, Clean Architecture, Riverpod, performance tuning
+- 🤖 AI integration: LLM APIs (Gemini, OpenAI), RAG, embeddings, MCP
+- 🗄️ Supabase backends: PostgreSQL, Auth, Row Level Security, Edge Functions
+- 📦 ERP & backend: ERPNext / Frappe, FastAPI, Node.js, Firebase
+- 🌐 Web: Next.js, React, Expo, Turborepo
+- 🚢 CI/CD with GitHub Actions: builds, tests and store releases
+- 🎓 M.Sc. Software Engineering, University of Nouakchott
 
 <br clear="right"/>
 
@@ -38,22 +38,20 @@ Building scalable Mobile, Web & Backend systems 🚀
 
 ### 🚀 What I'm Building
 
-- 📱 Cross-platform apps (Flutter & React Native / Expo)
-- 🛒 E-commerce systems (SOA-based architecture)
-- 📅 Smart booking & scheduling systems
-- 🔔 Notification microservices
-- 🧠 NLP tools for Hadrami dialect processing
+- 🏢 **Mouyassir ERP**: Flutter ERP with 20+ modules on ERPNext/Frappe, live on [Google Play](https://play.google.com/store/apps/details?id=com.softwaresavants.mouyassir) & [App Store](https://apps.apple.com/mr/app/mouyassir/id6759734497)
+- 🧠 **[Hadrami AI](https://github.com/saeedbark/Hadrami_AI)**: RAG-powered dictionary & translator for the Hadrami dialect ([web demo](https://hadrami-ai-lr7j.vercel.app/))
+- 📚 **Open dataset**: Hadrami Arabic dialect corpus on [Kaggle](https://www.kaggle.com/datasets/saeedbark7/hadrami-arabic-dialect-dataset) & [Hugging Face](https://huggingface.co/datasets/saeedbark/hadrami-arabic-dialect-dataset)
+- 💳 **[moosyl_flutter](https://pub.dev/packages/moosyl_flutter)**: open-source Flutter payment SDK for Bankily, Sedad & Masrivi
+- 🛍️ **Roudikram** (service marketplace) and **Apex AI** (AI fitness coaching): Supabase / Firebase apps on the stores
+- 🏥 **Zofa ERP**: hospital management ERP (Flutter + ERPNext)
 
 ---
 
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/saeed-bark" target="_blank">
+  <a href="https://www.linkedin.com/in/saeed-bark-5a2853260/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="linkedin" />
-  </a>
-  <a href="https://stackoverflow.com/users/saeed_bark" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" alt="stackoverflow" />
   </a>
   <a href="https://facebook.com/saeed.bark" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" alt="facebook" />
@@ -81,6 +79,7 @@ Building scalable Mobile, Web & Backend systems 🚀
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="react" />
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" alt="nextjs" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="javascript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="typescript" />
 </p>
 
 **⚙️ Backend & Systems**
@@ -88,7 +87,9 @@ Building scalable Mobile, Web & Backend systems 🚀
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="python" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="nodejs" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="40" alt="supabase" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" alt="firebase" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" alt="fastapi" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" alt="django" />
 </p>
 
@@ -111,6 +112,7 @@ Building scalable Mobile, Web & Backend systems 🚀
 
 <p>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" alt="github actions" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="docker" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" alt="figma" />
 </p>
@@ -131,13 +133,6 @@ Building scalable Mobile, Web & Backend systems 🚀
 ---
 
 ### 📈 Contribution Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saeedbark/saeedBark/output/profile-3d-contrib/profile-night-rainbow.svg" />
-    <img src="https://raw.githubusercontent.com/saeedbark/saeedBark/output/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
-  </picture>
-</p>
 
 <p align="center">
   <picture>
